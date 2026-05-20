@@ -1,0 +1,9 @@
+Options -Indexes
+
+<Files archive.txt> 
+	Require all denied
+</Files>
+
+<Files .htaccess>
+	Require all denied
+</Files>
